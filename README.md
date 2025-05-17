@@ -7,15 +7,21 @@ HELP International, a humanitarian NGO, aims to utilize its $10 million funds ef
 
 # Need
 Strategic Resource Allocation: Optimize the utilization of $10 million by identifying countries with the highest need for aid.
+
 Data-Driven Decision Making: Move beyond traditional methods to a more objective, evidence-based approach.
+
 Targeted Intervention: Tailor aid efforts to address specific challenges in different regions.
 
 # Use
 Country Categorization: Group countries based on socio-economic and health factors to prioritize aid.
+
 Strategic Decision Support: Provide insights to the CEO for informed decision-making.
+
 Resource Optimization: Direct funds to countries where they will have the most significant impact.
 
 # Benefits
 Maximized Impact: Enhance the effectiveness of aid.
+
 Efficient Resource Utilization: Ensure optimal use of funds.
+
 Improved Accountability: Increase transparency and trust with stakeholders.
